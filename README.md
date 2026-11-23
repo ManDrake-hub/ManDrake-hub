@@ -28,10 +28,5 @@ A note on this profile. Most of that work belongs to a company, to a university
 spin-off, or to research not yet published, so it is not here. What is public is
 coursework from the M.Sc. and tools I wrote for myself. The research is the part you
 can read:
-
-**Six peer-reviewed publications**, first author of a 2026 benchmark of neural network
-architectures for vehicle sideslip angle estimation (IFToMM Italy, Springer Nature) —
 [Google Scholar](https://scholar.google.com/citations?user=cDoYluUAAAAJ)
 
-Looking for a full-remote machine learning role.
-[LinkedIn](https://www.linkedin.com/in/geraldino-mandragora)
